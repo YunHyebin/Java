@@ -2,7 +2,7 @@ package _04_controlStatement;
 
 import java.util.Scanner;
 
-public class _01_ifEx1 {
+public class _01_controlStatementPractice1 {
 
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

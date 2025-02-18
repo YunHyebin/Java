@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class _02_ifEx2 {
+public class _02_controlStatementPractice2 {
 	 // 🛒 제품 재고 저장
     private static final Map<String, Integer> stockMap = new HashMap<>();
 
